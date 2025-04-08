@@ -21,6 +21,7 @@ A interface envia comandos pela porta serial, e o Arduino interpreta esses coman
 - 🖼️ Tkinter  
 - 🔌 PySerial  
 - 💻 Arduino IDE
+- 💻 VSCode
 
 ## 📦 Instalação do PySerial
 

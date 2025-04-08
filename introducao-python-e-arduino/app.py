@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 try:
-    arduino = serial.Serial('COM5', 9600, timeout=1)
+    arduino = serial.Serial('COM6', 9600, timeout=1)
     time.sleep(2)
 except:
     print("Erro ao conectar ao arduino")

@@ -8,7 +8,7 @@ Este projeto utiliza a biblioteca **PySerial** para possibilitar a comunicação
 - 🔧 1x Protoboard  
 - 💡 1x LED  
 - 🟦 1x Resistor (220Ω ou 330Ω recomendado)  
-- 🔗 2x Cabos jumper macho-macho  
+- 🔗 3x Cabos jumper macho-macho  
 
 ## 🎯 Objetivo
 
